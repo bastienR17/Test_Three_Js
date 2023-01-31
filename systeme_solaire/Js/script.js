@@ -49,7 +49,7 @@ venus.position.set(2.5, 0, 0);
 
 const earth = new THREE.Mesh(
     new THREE.SphereGeometry(0.2, 32, 32),
-    new THREE.MeshBasicMaterial({map: new THREE.TextureLoader().load('./map/planette/terre/terre_daymap.jpg')})
+    new THREE.MeshBasicMaterial({map: new THREE.TextureLoader().load('./map/planette/terre/Terre_daymap.jpg')})
 
 
 
